@@ -12,6 +12,8 @@ disableComments: true
 ---
 Coucou c'est Loïc qui a modifié
 
+!
+
 C’était il y a trois ans, un homme m’a demandé quel était le métier de mes rêves. J’ai ri jaune, sans même avoir l’envie de répondre à cette question. Puis, j’ai répondu, amèrement, 
 « psychologue » et aussitôt j’ai poursuivi en disant :
 

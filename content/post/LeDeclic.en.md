@@ -1,11 +1,16 @@
 ---
-title: "Le déclic"
-date: 2019-03-03T01:26:00+01:00
+title: Le déclic
+date: 2019-03-03T00:26:00.000Z
 draft: false
-image: "images/post3.png"
-description: "Tout ce qui produit une émotion ou un sentiment chez sois, que ce soit de rire, de pleurer, d’avoir peur, de se mettre en colère,..., nous permet d’apprendre un peu plus, sur qui nous sommes vraiment, sur ce que nous aimons ou pas et sur ce qui nous fait vibrer dans la vie."
+image: images/post3.png
+description: >-
+  Tout ce qui produit une émotion ou un sentiment chez sois, que ce soit de
+  rire, de pleurer, d’avoir peur, de se mettre en colère,..., nous permet
+  d’apprendre un peu plus, sur qui nous sommes vraiment, sur ce que nous aimons
+  ou pas et sur ce qui nous fait vibrer dans la vie.
 disableComments: true
 ---
+Coucou c'est Loïc qui a modifié
 
 C’était il y a trois ans, un homme m’a demandé quel était le métier de mes rêves. J’ai ri jaune, sans même avoir l’envie de répondre à cette question. Puis, j’ai répondu, amèrement, 
 « psychologue » et aussitôt j’ai poursuivi en disant :
@@ -13,11 +18,9 @@ C’était il y a trois ans, un homme m’a demandé quel était le métier de m
 « Mais ça ne sert à rien. Car pour faire ce métier, j’aurais besoin de 10 ans d’études, de retourner vivre chez mes parents alors que j’adore mon appartement et l’idée de ne plus avoir de salaire… Bref.. Je n’ai pas envie de tout ça ! ». 
 (Non pas que, chez mes parents, je ne serai pas bien, hein!  Bien au contraire, je serais même dorlotée).
 
-
 Il m’a répondu que je n’irai jamais dans une direction qui ne me correspondait pas. Que si je n’avais pas envie de faire 10 ans d’études, je ne ferai tout simplement pas et si pour moi, avoir mon appartement était important, alors je le garderai. C’était aussi simple que ça (à ses yeux).
 
 Il m’a demandé alors ce qui me plaisait dans l’idée de devenir psychologue? À ce moment-là, cette question m’a interpellée. À vrai dire, je ne m’étais jamais demandé ce qui me plaisait dans l’idée d’être psychologue.
-
 
 C’est à ce moment précis, que tout a changé pour moi.
 Après un instant, je pouvais lui répondre avec un sourire :« c’est le fait d’accompagner qui me plait ». 
@@ -25,14 +28,12 @@ C’était la clé : je savais désormais ce qui m’attirait réellement. C’�
 
 J’étais pourtant toujours dans la même situation de vie, mais à ce moment-là, je me suis sentie soulagée. Peu importait le temps que ça prendrait, oui, « peu importe » car je savais ce qui m’attirait dans la vie et je savais où j’avais envie d’aller. Même si comment, quoi, pourquoi, où… Toutes ces questions restaient encore sans réponse.
 
-
 J’avais planté la graine dans mon jardin. Maintenant cela ne me servait à rien d’aller tous les jours gratter pour voir si la fleur avait enfin poussé. Les choses se feraient naturellement. C’était une question de patience. 
 
 Il a fallu aussi que j’ouvre grand mes yeux et que j’observe autour de moi avec une grande curiosité tout ce qui m’entourait. Avec un nouveau regard.
 Au lieu d’entendre, j’écoute, en me concentrant sur ce qui me fait vibrer, sur ce vers quoi je me sentais attirée. 
 Que je me concentre sur mon ressenti que ce soit par rapport aux textes, aux films, aux discours qui m’inspirent. 
 Je me suis mise en mouvement, j’ai fait un pas vers mon nouveau moi, j’ai fait un pas hors de ce confort qui ne me correspondait plus. 
-
 
 Tout ce qui produit une émotion, un sentiment chez sois, que ce soit de rire, de pleurer, d’avoir peur, de se mettre en colère, etc. nous permet d’apprendre un peu plus à nous connaître, à savoir qui nous sommes vraiment. 
 

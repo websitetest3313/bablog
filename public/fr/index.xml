@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dare To Live</title>
+    <link>https://hungry-hugle-09127b.netlify.com/fr/</link>
+    <description>Recent content on Dare To Live</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 01:51:24 +0100</lastBuildDate>
+    
+	<atom:link href="https://hungry-hugle-09127b.netlify.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PNL (Programmation Nero Linguistique)</title>
+      <link>https://hungry-hugle-09127b.netlify.com/fr/post/pnl/</link>
+      <pubDate>Tue, 05 Mar 2019 01:51:24 +0100</pubDate>
+      
+      <guid>https://hungry-hugle-09127b.netlify.com/fr/post/pnl/</guid>
+      <description>Dans les années 1970, Richard Bandler et John Grinder, se sont intéressés à l’excellence humaine. Comment fonctionne l’être humain lorsqu’il atteint la performance. Ils ont donc étudié des experts dans ce domaine.
+Nous avons sommes né avec un cerveau, mais sans mode d’emploi. La PNL est un outil qui va nous permettre d’étudier et de créer ce mode d’emploi. Ce qui permet d’apprendre à comprendre comment fonctionne notre cerveau, comment utiliser nos propres capacités, comprendre comment nos émotions et réactions sont créées et ainsi pouvoir atteindre l&amp;rsquo;excellence et le succès.</description>
+    </item>
+    
+  </channel>
+</rss>

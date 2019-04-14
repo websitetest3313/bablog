@@ -1,0 +1,28 @@
+languageCode = "en-us"
+baseURL = "https://amazing-pare-753b86.netlify.com"
+theme = "/CustMassively"
+googleanalytics = ""
+disqusShortname = "hugo-massively"
+
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     foldername = "post"
+#     pagesize = "6"
+#     featuredpost = "true"
+
+[languages]
+
+[languages.fr]
+  languageName = "Developpement personnel"
+  title = "Dare To Live"
+[languages.en]
+   languageName = "Blog"
+   title = "Dare To Live"
+[languages.es]
+  languageName = "Qui suis-je?"
+  title = "Dare To Live"
+
+[params]
+  #set below parameter to define a favicon
+  favicon = "/images/favicon.ico"

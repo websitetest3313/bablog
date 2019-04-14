@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://hungry-hugle-09127b.netlify.com/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2019-03-05T01:51:24+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://hungry-hugle-09127b.netlify.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-03-05T01:51:24+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://hungry-hugle-09127b.netlify.com/es/sitemap.xml</loc>
+		
+	   	<lastmod>2019-03-08T01:51:24+01:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

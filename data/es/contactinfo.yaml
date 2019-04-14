@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: '1234 Somewhere Road'
+- line: 'Grebbestad, Sweden'
+
+phone: '(0041) 79 ... .. ..' 
+
+email: '1990mumu@gmail.com'

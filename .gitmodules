@@ -1,0 +1,9 @@
+[submodule "themes/strata"]
+	path = themes/strata
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
+[submodule "themes/Massively"]
+	path = themes/Massively
+	url = https://github.com/curttimson/hugo-theme-massively.git
+[submodule "themes/CustMassively"]
+	path = themes/CustMassively
+	url = https://gitlab.com/Zidi/CustMassively.git

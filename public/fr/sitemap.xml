@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hungry-hugle-09127b.netlify.com/fr/post/pnl/</loc>
+    <lastmod>2019-03-05T01:51:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungry-hugle-09127b.netlify.com/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hungry-hugle-09127b.netlify.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://hungry-hugle-09127b.netlify.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hungry-hugle-09127b.netlify.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hungry-hugle-09127b.netlify.com/fr/</loc>
+    <lastmod>2019-03-05T01:51:24+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hungry-hugle-09127b.netlify.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://hungry-hugle-09127b.netlify.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hungry-hugle-09127b.netlify.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hungry-hugle-09127b.netlify.com/fr/post/</loc>
+    <lastmod>2019-03-05T01:51:24+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hungry-hugle-09127b.netlify.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://hungry-hugle-09127b.netlify.com/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hungry-hugle-09127b.netlify.com/fr/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hungry-hugle-09127b.netlify.com/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hungry-hugle-09127b.netlify.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://hungry-hugle-09127b.netlify.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hungry-hugle-09127b.netlify.com/fr/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,4 @@
+[submodule "themes/CustMassively"]
+	path = themes/CustMassively
+	url = https://gitlab.com/Zidi/CustMassively.git
+

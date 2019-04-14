@@ -8,8 +8,6 @@ disableComments: true
 ---
 Grâce à cette envie d’agrandir ma curiosité et mon défi de trouver le travail qui me faisait rêver tout en me posant les bonnes questions. Je trouve enfin ma voie.
 
-![he voila](/images/uploads/skärgårdsidyllen-winter-header.png "C'est beau la suède hein?")
-
 Après plusieurs mois de formation passionnante, tout en gardant mon emploi, j’obtiens mon diplôme de Maître Praticienne en PNL (Programmation Neuro Linguistique). Tout cela en ayant gardé ce qui était important pour moi en ce temps-là, soit mon appartement et ma sécurité de vie.
 
 La finalité c’est que je me passionne pour le développement personnel. Je comprends que c’est ce qui m’a toujours animée. J’adore aider les gens à atteindre leur objectif de vie, de les accompagner dans leur défi personnel, leur donner ou redonner le sourire. Et comme un changement arrive rarement seul...

@@ -4,24 +4,12 @@ date: 2019-03-03T00:26:00.000Z
 draft: false
 image: images/post3.png
 description: >-
-  Jessica Tout ce qui produit une émotion ou un sentiment chez sois, que ce soit
-  de rire, de pleurer, d’avoir peur, de se mettre en colère,..., nous permet
+  Tout ce qui produit une émotion ou un sentiment chez sois, que ce soit de
+  rire, de pleurer, d’avoir peur, de se mettre en colère,..., nous permet
   d’apprendre un peu plus, sur qui nous sommes vraiment, sur ce que nous aimons
   ou pas et sur ce qui nous fait vibrer dans la vie.
 disableComments: true
 ---
-Voila
-
-
-
-
-
-
-
-Coucou c'est Loïc qui a modifié
-
-!
-
 C’était il y a trois ans, un homme m’a demandé quel était le métier de mes rêves. J’ai ri jaune, sans même avoir l’envie de répondre à cette question. Puis, j’ai répondu, amèrement, 
 « psychologue » et aussitôt j’ai poursuivi en disant :
 

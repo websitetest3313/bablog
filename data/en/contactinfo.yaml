@@ -1,9 +1,6 @@
 contactformaction: 'post-action'
 
 address:
-- line: '1234 Somewhere Road'
-- line: 'Grebbestad, Sweden'
+- line: 'Suède'
 
-phone: '(0041) 79 ... .. ..' 
-
-email: '1990mumu@gmail.com'
+email: 'daretolife2@gmail.com'

@@ -4,7 +4,7 @@ date: 2019-03-02T00:09:20.000Z
 draft: false
 image: images/post2.png
 description: J’avais ce sentiment d’être dans un train sans destination...
-disableComments: true
+disableComments: false
 ---
 Je m’appelle Jessica, et tout le monde m’appelle Jess. Je vais vous raconter un bout de mon histoire.
 

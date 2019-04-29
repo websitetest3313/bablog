@@ -1,10 +1,10 @@
 ---
-title: "Les peurs"
-date: 2019-03-05T01:51:24+01:00
+title: Les peurs
+date: 2019-03-05T00:51:24.000Z
 draft: true
-image: "images/DP_post2.png"
-description: ""
-disableComments: true
+image: images/DP_post2.png
+description: Les peurs
+disableComments: false
 ---
 
 La peur est l’une des quatres émotions primaires. Elle est présente pour nous permettre d’être en alerte lorsqu’il y a un danger et ainsi pouvoir nous protéger. Cette émotion nous amène à rejoindre une situation de sécurité ou de confort. 

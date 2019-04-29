@@ -1,10 +1,10 @@
 ---
 title: Mon message
 date: 2019-03-01T00:06:07.000Z
-draft: true
+draft: false
 image: images/post1.png
 description: Oser le changement
-disableComments: true
+disableComments: false
 ---
 J’ai créé ces articles pour inspirer une, deux, voire plusieurs personnes qui ont un but, un projet, une envie, un rêve... 
 

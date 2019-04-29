@@ -1,14 +1,14 @@
 ---
 title: Le déclic
 date: 2019-03-03T00:26:00.000Z
-draft: false
+draft: true
 image: images/post3.png
 description: >-
   Lorsqu’on plante une graine dans un jardin, ce n’est pas la peine d’aller voir
   tous les jours si la fleur a poussé. Il suffit de patienter et d'accepter que
   les choses arrivent gentiment, mais pas forcément dans l'ordre que nous avions
   prévu.
-disableComments: true
+disableComments: false
 ---
 C’était il y a trois ans, un homme m’a demandé quel était le métier de mes rêves. J’ai ri jaune, sans même avoir l’envie de répondre à cette question. Puis, j’ai répondu, amèrement, « psychologue » . Aussitôt j’ai poursuivi en disant :
 

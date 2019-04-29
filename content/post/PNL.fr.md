@@ -1,9 +1,9 @@
 ---
-title: "PNL (Programmation Nero Linguistique)"
-date: 2019-03-05T01:51:24+01:00
+title: PNL (Programmation Neuro Linguistique)
+date: 2019-03-05T00:51:24.000Z
 draft: false
-image: "images/DP_post1.png"
-description: "Qu’est-ce que la PNL ?"
+image: images/DP_post1.png
+description: Qu’est-ce que la PNL ?
 disableComments: true
 ---
 

@@ -2,7 +2,7 @@
 title: PNL (Programmation Neuro Linguistique)
 date: 2019-03-05T00:51:24.000Z
 draft: false
-image: images/DP_post1.png
+image: /images/uploads/post1_pnl.png
 description: Qu’est-ce que la PNL ?
 disableComments: true
 ---

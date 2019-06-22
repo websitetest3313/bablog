@@ -8,7 +8,7 @@ disableComments: true
 ---
 Dans les années 1970, Richard Bandler et John Grinder, se sont intéressés à l’excellence humaine. Comment fonctionne l’être humain lorsqu’il atteint la performance. Ils ont donc étudié des experts dans ce domaine.
 
-Nous avons né avec un cerveau, mais sans mode d’emploi. La PNL est un outil qui va nous permettre d’étudier et de créer ce mode d’emploi. Ce qui permet d’apprendre à comprendre comment fonctionne notre cerveau, comment utiliser nos propres capacités, comprendre comment nos émotions et réactions sont créées et ainsi pouvoir atteindre l'excellence et le succès.
+Nous sommes né avec un cerveau, mais sans mode d’emploi. La PNL est un outil qui va nous permettre d’étudier et de créer ce mode d’emploi. Ce qui permet d’apprendre à comprendre comment fonctionne notre cerveau, comment utiliser nos propres capacités, comprendre comment nos émotions et réactions sont créées et ainsi pouvoir atteindre l'excellence et le succès.
 
 La PNL signifie Programmation Neuro Linguistique. 
 

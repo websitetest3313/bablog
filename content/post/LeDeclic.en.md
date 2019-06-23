@@ -8,21 +8,21 @@ description: >-
   tous les jours si la fleur a poussé. Il suffit de patienter et d'accepter que
   les choses arrivent gentiment, mais pas forcément dans l'ordre que nous avions
   prévu.
-disableComments: false
+disableComments: true
 ---
-C’était il y a trois ans, un homme m’a demandé quel était le métier de mes rêves. J’ai ri jaune, sans même avoir l’envie de répondre à cette question. Puis, j’ai répondu, amèrement, « psychologue » . Aussitôt, j’ai poursuivi en disant :
+C’était il y a trois ans, un homme m’a demandé quel était le métier de mes rêves. J’ai ri jaune, sans même avoir envie de répondre à cette question. Puis, j’ai répondu, amèrement, « psychologue » . Aussitôt, j’ai poursuivi en disant :
 
 « Mais ça ne sert à rien. Car pour faire ce métier, j’aurais besoin de 10 ans d’études, de retourner vivre chez mes parents alors que j’adore mon appartement et l’idée de ne plus avoir de salaire… Bref.. Je n’ai pas envie de tout ça ! ». 
 
 (Non pas que, chez mes parents, je ne serais pas bien, hein!  Bien au contraire, je serais même dorlotée).
 
-Il m’a répondu que je n’irai jamais dans une direction qui ne me correspondait pas. Que si je n’avais pas envie de faire 10 ans d’études, je ne ferai tout simplement pas et si pour moi, avoir mon appartement était important, alors je le garderai. C’était aussi simple que ça (à ses yeux).
+Il m’a répondu que je n’irai jamais dans une direction qui ne me correspondait pas. Que si je n’avais pas envie de faire 10 ans d’études, je ne ferais tout simplement pas et si pour moi, avoir mon appartement était important, alors je le garderai. C’était aussi simple que ça (à ses yeux).
 
 Il m’a demandé alors ce qui me plaisait dans l’idée de devenir psychologue. À ce moment-là, cette question m’a interpellée. À vrai dire, je ne m’étais jamais demandé ce qui me plaisait dans l’idée d’être psychologue.
 
 C’est à ce moment précis, que tout a changé pour moi. (il a posé une autre question?)
 
-Après un instant, je pouvais lui répondre avec un sourire :« c’est le fait d’accompagner qui me plait ». 
+Après un instant, je pouvais lui répondre avec un sourire :« c’est le fait d’accompagner qui me plaît ». 
 
 C’était la clé : je savais désormais ce qui m’attirait réellement. C’était le fait d’accompagner les gens à atteindre leurs objectifs de vie. C’est ce qui me permit de suivre une nouvelle direction de vie. 
 
@@ -40,4 +40,4 @@ Je me suis mise en mouvement, j’ai fait un pas vers mon nouveau moi, j’ai fa
 
 Tout ce qui produit une émotion, un sentiment chez soi, que ce soit de rire, de pleurer, d’avoir peur, de se mettre en colère, etc. nous permet d’apprendre un peu plus à nous connaître, à savoir qui nous sommes vraiment. 
 
-**_J.Mumu_**
+_**J.Mumu**_

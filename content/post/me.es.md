@@ -1,18 +1,14 @@
 ---
-title: "Qui suis-je?"
-date: 2019-03-08T01:51:24+01:00
+title: Qui suis-je?
+date: 2019-03-08T00:51:24.000Z
 draft: false
-image: "images/me.jpg"
-description: "Välkommen / Bienvenue / Welcome"
+image: images/me.jpg
+description: Välkommen / Bienvenue / Welcome
 disableComments: true
 ---
-
 Hello ! Moi c’est Jess.
 
-
-Je suis une Suissesse qui a quitté son pays en 2018, pour venir s’installer en Suède.
-J’ai une expérience de neufs années en tant qu’Office Manager, je suis diplômée Maître Praticien en PNL, bientôt diplômée Hypnothérapeute et Coach ICF.
-
+Je suis une Suissesse qui a quitté son pays en 2018, pour venir s’installer en Suède. J’ai une expérience de neufs années en tant qu’Office Manager, je suis diplômée Maître Praticien en PNL, Master Coach ICI et bientôt diplômée Hypnothérapeute.
 
 J’ai créé ce blog pour vous inspirer à réaliser vos rêves et pour vous y accompagner si vous en avez l’envie ou le besoin. 
 

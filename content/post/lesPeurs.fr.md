@@ -28,13 +28,12 @@ Ainsi, votre corps en ressentira les bienfaits et il vous dira MERCI ! :)
 
 Plus nous pratiquons ce dialogue interne positif et rassurant, plus nous serons à même de contrôler nos émotions et donc de surmonter cette peur.
 
-Par exemple :
-
-J’ai peur de faire une présentation devant un public.
+Par exemple : \
+"J’ai peur de faire une présentation devant un public".
 
 La peur est souvent créée par le film que la personne se fait face à un éventuel échec.
 
-Cette personne peut donc décider de changer cette image,film ou ce dialogue interne négatif et la,le remplacer par une image,film où son public réagit de manière positive face à sa présentation. Automatiquement, l’état interne de la personne, va changer.
+Cette personne peut donc décider de changer cette image, film ou ce dialogue interne négatif et la/le remplacer par une image, film où son public réagit de manière positive face à sa présentation. Automatiquement, l’état interne de la personne, va changer.
 
 Bien entendu, ici, nous parlons de peur et non de phobies. La phobie est un tout autre état qui se traite d’une toute autre manière. Je pourrais faire un article à ce sujet si cela peut vous intéresser.
 

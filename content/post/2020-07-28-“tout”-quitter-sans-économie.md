@@ -4,7 +4,7 @@ title: “TOUT” QUITTER SANS ÉCONOMIE
 date: 2020-07-28T20:15:12.406Z
 draft: true
 image: /images/uploads/regret.png
-description: Et si c'était possible ?
+description: "\"Tout\" quitter sans économie ? Et si c'était possible ?"
 disableComments: true
 ---
 Cela faisait 1 an, j’étais en couple avec mon compagnon. Tous les deux Suisses. Moi, j’habitais à Lausanne et je travaillais depuis 7 ans en tant que Sr. Officier Manager dans une entreprise américaine basée à l’EPFL, lui est ingénieur. Il faisait les choses à l’envers, car il était Suisse, mais avait décidé d’aller travailler en France. Pas très commun comme situation. Grâce à son travail, il avait effectué des missions de plusieurs mois en Afrique. A la suite de ces missions, une passion pour les voyages était née chez lui.
